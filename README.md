@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Titilayor547
-- 👀 I’m interested in using Artificial Intelligence to solve environmental problems
-- 🌱 I’m currently learning Data Engineering/Artificial Intelligence
+- 👋 Hi, I’m Titilayo Tajudeen
+- 👀 I’m interested in using marchine learning tecniques and remotely sensed data validated with field observation to solve environmental and forest-related problems
+- 🌱 I’m second year PhD student at the center for Geospatial Analytics, NC State
+- 🌱 I am currently learning more about Machine leanring
 - 💞️ I’m looking to collaborate on Hackhaton Projects
 - 📫 How to reach me tajudeentawakalt547@gmail.com
 
